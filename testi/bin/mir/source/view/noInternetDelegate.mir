@@ -1,0 +1,36 @@
+[ @file = "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [System,1,14,20]; ]
+import Toybox.System;
+[ @file = "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [WatchUi,2,14,21]; ]
+import Toybox.WatchUi;
+[ @file = "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc"; @line = 4; @symbol_classdef = [noInternetDelegate,4,6,24]; @symbol_extends<0> = [WatchUi,4,33,40]; @symbol_extends<1> = [BehaviorDelegate,4,41,57]; ]
+class noInternetDelegate extends WatchUi.BehaviorDelegate {
+    [ @file = "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc"; @line = 4; ]
+    <init> {
+    }
+    [ @file = "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc"; @line = 4; ]
+    static
+    <init> {
+    }
+    [ @file = "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc"; @line = 5; @position = 16; @symbol_vardef = [_view,5,16,21]; @symbol_type<0> = [noInternetView,5,25,39]; ]
+    private
+    var _view as noInternetView or Null;
+    [ @file = "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc"; @line = 7; @symbol_functiondef = [initialize,7,13,23]; @symbol_param<0> = [view,7,24,28]; @symbol_param<0>_type<0> = [noInternetView,7,32,46]; ]
+    function initialize(view as noInternetView) as Void {
+E__vs_projektit_garmin_testi_source_view_noInternetDelegate_mc_7_48_10_4_start:
+[ "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc" 8 8 ]
+        %tmp.1 = lgetv %view;
+        symbol [ view %tmp.1 8 16 20 ];
+        symbol [ _view ? 8 8 13 ];
+        putv self :_view %tmp.1;
+[ "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc" 9 8 ]
+        symbol [ BehaviorDelegate %tmp.3 9 8 24 ];
+        %tmp.3 = getv ? :BehaviorDelegate;
+        symbol [ initialize %tmp.4 9 25 35 ];
+        %tmp.4 = getv function %tmp.3 :initialize;
+        invoke %tmp.3 %tmp.4();
+E__vs_projektit_garmin_testi_source_view_noInternetDelegate_mc_7_48_10_4_stop:
+    }
+}
+[ @file = "E:\vs projektit\garmin\testi\source\view\noInternetDelegate.mc"; @line = 1; ]
+<init> {
+}

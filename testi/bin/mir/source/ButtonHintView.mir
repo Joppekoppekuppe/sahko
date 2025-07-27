@@ -1,0 +1,71 @@
+[ @file = "e:\vs projektit\garmin\testi\source\ButtonHintView.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [WatchUi,1,14,21]; ]
+import Toybox.WatchUi;
+[ @file = "e:\vs projektit\garmin\testi\source\ButtonHintView.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [Graphics,2,14,22]; ]
+import Toybox.Graphics;
+[ @file = "e:\vs projektit\garmin\testi\source\ButtonHintView.mc"; @line = 4; @symbol_classdef = [ButtonHintView,4,6,20]; @symbol_extends<0> = [WatchUi,4,29,36]; @symbol_extends<1> = [View,4,37,41]; ]
+class ButtonHintView extends WatchUi.View {
+    [ @file = "e:\vs projektit\garmin\testi\source\ButtonHintView.mc"; @line = 4; ]
+    <init> {
+    }
+    [ @file = "e:\vs projektit\garmin\testi\source\ButtonHintView.mc"; @line = 4; ]
+    static
+    <init> {
+    }
+    [ @file = "e:\vs projektit\garmin\testi\source\ButtonHintView.mc"; @line = 5; @symbol_functiondef = [onUpdate,5,13,21]; @symbol_param<0> = [dc,5,22,24]; @symbol_param<0>_type<0> = [Dc,5,28,30]; ]
+    function onUpdate(dc as Dc) as Void {
+e__vs_projektit_garmin_testi_source_ButtonHintView_mc_5_40_9_4_start:
+[ "e:\vs projektit\garmin\testi\source\ButtonHintView.mc" 6 8 ]
+        %tmp.1 = lgetv %dc;
+        symbol [ dc %tmp.1 6 8 10 ];
+        symbol [ clear %tmp.2 6 11 16 ];
+        %tmp.2 = getv function %tmp.1 :clear;
+        invoke %tmp.1 %tmp.2();
+[ "e:\vs projektit\garmin\testi\source\ButtonHintView.mc" 7 8 ]
+        %tmp.3 = lgetv %dc;
+        symbol [ dc %tmp.3 7 8 10 ];
+        symbol [ setColor %tmp.4 7 11 19 ];
+        %tmp.4 = getv function %tmp.3 :setColor;
+        symbol [ Graphics %tmp.5 7 20 28 ];
+        %tmp.5 = getm $.Toybox.Graphics;
+        symbol [ COLOR_WHITE %tmp.6 7 29 40 ];
+        %tmp.6 = getv %tmp.5 :COLOR_WHITE;
+        symbol [ Graphics %tmp.7 7 42 50 ];
+        %tmp.7 = getm $.Toybox.Graphics;
+        symbol [ COLOR_TRANSPARENT %tmp.8 7 51 68 ];
+        %tmp.8 = getv %tmp.7 :COLOR_TRANSPARENT;
+        invoke %tmp.3 %tmp.4(%tmp.6, %tmp.8);
+[ "e:\vs projektit\garmin\testi\source\ButtonHintView.mc" 8 8 ]
+        %tmp.9 = lgetv %dc;
+        symbol [ dc %tmp.9 8 8 10 ];
+        symbol [ drawText %tmp.10 8 11 19 ];
+        %tmp.10 = getv function %tmp.9 :drawText;
+        %tmp.11 = lgetv %dc;
+        symbol [ dc %tmp.11 8 20 22 ];
+        symbol [ getWidth %tmp.12 8 23 31 ];
+        %tmp.12 = getv function %tmp.11 :getWidth;
+        %tmp.13 = invoke %tmp.11 %tmp.12();
+        %tmp.14 = 2;
+        %tmp.15 = div %tmp.13 %tmp.14;
+        %tmp.16 = lgetv %dc;
+        symbol [ dc %tmp.16 8 37 39 ];
+        symbol [ getHeight %tmp.17 8 40 49 ];
+        %tmp.17 = getv function %tmp.16 :getHeight;
+        %tmp.18 = invoke %tmp.16 %tmp.17();
+        %tmp.19 = 30;
+        %tmp.20 = sub %tmp.18 %tmp.19;
+        symbol [ Graphics %tmp.21 8 56 64 ];
+        %tmp.21 = getm $.Toybox.Graphics;
+        symbol [ FONT_SMALL %tmp.22 8 65 75 ];
+        %tmp.22 = getv %tmp.21 :FONT_SMALL;
+        %tmp.23 = "Back = Exit, Start = Select";
+        symbol [ Graphics %tmp.24 8 108 116 ];
+        %tmp.24 = getm $.Toybox.Graphics;
+        symbol [ TEXT_JUSTIFY_CENTER %tmp.25 8 117 136 ];
+        %tmp.25 = getv %tmp.24 :TEXT_JUSTIFY_CENTER;
+        invoke %tmp.9 %tmp.10(%tmp.15, %tmp.20, %tmp.22, %tmp.23, %tmp.25);
+e__vs_projektit_garmin_testi_source_ButtonHintView_mc_5_40_9_4_stop:
+    }
+}
+[ @file = "e:\vs projektit\garmin\testi\source\ButtonHintView.mc"; @line = 1; ]
+<init> {
+}

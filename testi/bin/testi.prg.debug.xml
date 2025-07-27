@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="E:\vs projektit\garmin\testi\manifest.xml"/>
+<pcToLineNum>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="1" lineNum="202" parent="globals" pc="268435460" symbol="getApp"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="1" lineNum="203" parent="globals" pc="268435470" symbol="getApp"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="2" lineNum="7" parent="globals/testiApp" pc="268435481" symbol="&lt;init&gt;"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="2" lineNum="15" parent="globals/testiApp" pc="268435492" symbol="&lt;init&gt;"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="3" lineNum="8" parent="globals/testiView" pc="268435523" symbol="&lt;init&gt;"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetDelegate.mc" id="4" lineNum="4" parent="globals/noInternetDelegate" pc="268435535" symbol="&lt;init&gt;"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="5" lineNum="9" parent="globals/testiDelegate" pc="268435547" symbol="&lt;init&gt;"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="5" lineNum="10" parent="globals/testiDelegate" pc="268435558" symbol="&lt;init&gt;"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="6" lineNum="7" parent="globals/Rez" pc="268435572" symbol="&lt;init&gt;"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiMenuDelegate.mc" id="7" lineNum="5" parent="globals/testiMenuDelegate" pc="268435592" symbol="&lt;init&gt;"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="8" lineNum="205" parent="globals" pc="268435604" symbol="getView"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="8" lineNum="206" parent="globals" pc="268435614" symbol="getView"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetView.mc" id="9" lineNum="5" parent="globals/noInternetView" pc="268435631" symbol="&lt;init&gt;"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="10" lineNum="93" parent="globals/testiApp" pc="268435643" symbol="formatDate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="10" lineNum="94" parent="globals/testiApp" pc="268435645" symbol="formatDate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="11" lineNum="36" parent="globals/testiApp" pc="268435720" symbol="getInitialView"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="11" lineNum="37" parent="globals/testiApp" pc="268435722" symbol="getInitialView"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="11" lineNum="38" parent="globals/testiApp" pc="268435747" symbol="getInitialView"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="12" lineNum="159" parent="globals/testiApp" pc="268435781" symbol="tomorrowWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="12" lineNum="160" parent="globals/testiApp" pc="268435784" symbol="tomorrowWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="12" lineNum="161" parent="globals/testiApp" pc="268435799" symbol="tomorrowWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="12" lineNum="163" parent="globals/testiApp" pc="268435808" symbol="tomorrowWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="12" lineNum="164" parent="globals/testiApp" pc="268435853" symbol="tomorrowWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="12" lineNum="166" parent="globals/testiApp" pc="268435889" symbol="tomorrowWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="12" lineNum="168" parent="globals/testiApp" pc="268435921" symbol="tomorrowWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="12" lineNum="169" parent="globals/testiApp" pc="268435932" symbol="tomorrowWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="12" lineNum="170" parent="globals/testiApp" pc="268435947" symbol="tomorrowWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="13" lineNum="173" parent="globals/testiApp" pc="268435992" symbol="searchPricesFromWeb"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="13" lineNum="174" parent="globals/testiApp" pc="268435995" symbol="searchPricesFromWeb"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="13" lineNum="176" parent="globals/testiApp" pc="268436002" symbol="searchPricesFromWeb"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="13" lineNum="181" parent="globals/testiApp" pc="268436025" symbol="searchPricesFromWeb"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="13" lineNum="191" parent="globals/testiApp" pc="268436058" symbol="searchPricesFromWeb"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="13" lineNum="192" parent="globals/testiApp" pc="268436063" symbol="searchPricesFromWeb"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="13" lineNum="194" parent="globals/testiApp" pc="268436098" symbol="searchPricesFromWeb"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="14" lineNum="124" parent="globals/testiApp" pc="268436131" symbol="formatDateAndHourWithExternalHour"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="14" lineNum="125" parent="globals/testiApp" pc="268436133" symbol="formatDateAndHourWithExternalHour"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="15" lineNum="25" parent="globals/testiApp" pc="268436237" symbol="onStart"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="15" lineNum="26" parent="globals/testiApp" pc="268436239" symbol="onStart"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="16" lineNum="40" parent="globals/testiApp" pc="268436247" symbol="getView"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="16" lineNum="41" parent="globals/testiApp" pc="268436249" symbol="getView"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="17" lineNum="30" parent="globals/testiApp" pc="268436255" symbol="onStop"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="17" lineNum="31" parent="globals/testiApp" pc="268436257" symbol="onStop"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="17" lineNum="32" parent="globals/testiApp" pc="268436280" symbol="onStop"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="43" parent="globals/testiApp" pc="268436304" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="48" parent="globals/testiApp" pc="268436306" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="49" parent="globals/testiApp" pc="268436326" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="50" parent="globals/testiApp" pc="268436376" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="51" parent="globals/testiApp" pc="268436400" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="52" parent="globals/testiApp" pc="268436424" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="53" parent="globals/testiApp" pc="268436448" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="54" parent="globals/testiApp" pc="268436472" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="55" parent="globals/testiApp" pc="268436495" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="56" parent="globals/testiApp" pc="268436518" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="57" parent="globals/testiApp" pc="268436556" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="58" parent="globals/testiApp" pc="268436564" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="59" parent="globals/testiApp" pc="268436600" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="60" parent="globals/testiApp" pc="268436665" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="61" parent="globals/testiApp" pc="268436677" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="62" parent="globals/testiApp" pc="268436742" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="63" parent="globals/testiApp" pc="268436803" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="64" parent="globals/testiApp" pc="268436815" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="65" parent="globals/testiApp" pc="268436851" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="66" parent="globals/testiApp" pc="268436915" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="67" parent="globals/testiApp" pc="268436927" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="69" parent="globals/testiApp" pc="268436963" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="73" parent="globals/testiApp" pc="268436989" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="74" parent="globals/testiApp" pc="268436997" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="77" parent="globals/testiApp" pc="268437030" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="78" parent="globals/testiApp" pc="268437070" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="79" parent="globals/testiApp" pc="268437099" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="80" parent="globals/testiApp" pc="268437107" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="81" parent="globals/testiApp" pc="268437151" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="82" parent="globals/testiApp" pc="268437183" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="83" parent="globals/testiApp" pc="268437195" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="84" parent="globals/testiApp" pc="268437227" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="18" lineNum="85" parent="globals/testiApp" pc="268437239" symbol="savePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="19" lineNum="135" parent="globals/testiApp" pc="268437287" symbol="formatTomorrowDateAndHourWithExternalHour"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="19" lineNum="136" parent="globals/testiApp" pc="268437289" symbol="formatTomorrowDateAndHourWithExternalHour"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="20" lineNum="113" parent="globals/testiApp" pc="268437402" symbol="formatDateAndHour"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="20" lineNum="114" parent="globals/testiApp" pc="268437404" symbol="formatDateAndHour"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="21" lineNum="103" parent="globals/testiApp" pc="268437521" symbol="formatTomorrowDate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="21" lineNum="104" parent="globals/testiApp" pc="268437523" symbol="formatTomorrowDate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="22" lineNum="90" parent="globals/testiApp" pc="268437601" symbol="utcToFinnishTime"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="22" lineNum="91" parent="globals/testiApp" pc="268437603" symbol="utcToFinnishTime"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="23" lineNum="20" parent="globals/testiApp" pc="268437609" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="23" lineNum="21" parent="globals/testiApp" pc="268437611" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="24" lineNum="146" parent="globals/testiApp" pc="268437624" symbol="todayWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="24" lineNum="147" parent="globals/testiApp" pc="268437627" symbol="todayWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="24" lineNum="148" parent="globals/testiApp" pc="268437642" symbol="todayWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="24" lineNum="149" parent="globals/testiApp" pc="268437651" symbol="todayWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="24" lineNum="150" parent="globals/testiApp" pc="268437696" symbol="todayWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="24" lineNum="152" parent="globals/testiApp" pc="268437732" symbol="todayWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="24" lineNum="154" parent="globals/testiApp" pc="268437764" symbol="todayWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="24" lineNum="155" parent="globals/testiApp" pc="268437775" symbol="todayWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiApp.mc" id="24" lineNum="156" parent="globals/testiApp" pc="268437790" symbol="todayWebRequestCallback"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="26" lineNum="16" parent="globals/testiView" pc="268437827" symbol="onLayout"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="26" lineNum="17" parent="globals/testiView" pc="268437829" symbol="onLayout"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="26" lineNum="18" parent="globals/testiView" pc="268437862" symbol="onLayout"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="27" lineNum="11" parent="globals/testiView" pc="268437883" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="27" lineNum="12" parent="globals/testiView" pc="268437885" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="29" lineNum="26" parent="globals/testiView" pc="268437898" symbol="setPrice"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="29" lineNum="27" parent="globals/testiView" pc="268437900" symbol="setPrice"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="29" lineNum="28" parent="globals/testiView" pc="268437922" symbol="setPrice"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="30" lineNum="32" parent="globals/testiView" pc="268437934" symbol="onUpdate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="30" lineNum="34" parent="globals/testiView" pc="268437937" symbol="onUpdate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="30" lineNum="35" parent="globals/testiView" pc="268437962" symbol="onUpdate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="30" lineNum="36" parent="globals/testiView" pc="268437997" symbol="onUpdate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="30" lineNum="37" parent="globals/testiView" pc="268438026" symbol="onUpdate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="30" lineNum="38" parent="globals/testiView" pc="268438035" symbol="onUpdate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="30" lineNum="39" parent="globals/testiView" pc="268438053" symbol="onUpdate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiView.mc" id="30" lineNum="41" parent="globals/testiView" pc="268438070" symbol="onUpdate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetDelegate.mc" id="31" lineNum="7" parent="globals/noInternetDelegate" pc="268438087" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetDelegate.mc" id="31" lineNum="8" parent="globals/noInternetDelegate" pc="268438089" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetDelegate.mc" id="31" lineNum="9" parent="globals/noInternetDelegate" pc="268438098" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="32" lineNum="15" parent="globals/testiDelegate" pc="268438111" symbol="updatePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="32" lineNum="16" parent="globals/testiDelegate" pc="268438114" symbol="updatePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="32" lineNum="17" parent="globals/testiDelegate" pc="268438139" symbol="updatePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="32" lineNum="18" parent="globals/testiDelegate" pc="268438179" symbol="updatePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="32" lineNum="19" parent="globals/testiDelegate" pc="268438197" symbol="updatePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="32" lineNum="20" parent="globals/testiDelegate" pc="268438206" symbol="updatePrices"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="33" lineNum="12" parent="globals/testiDelegate" pc="268438229" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiDelegate.mc" id="33" lineNum="13" parent="globals/testiDelegate" pc="268438231" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiMenuDelegate.mc" id="34" lineNum="11" parent="globals/testiMenuDelegate" pc="268438244" symbol="onMenuItem"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiMenuDelegate.mc" id="34" lineNum="12" parent="globals/testiMenuDelegate" pc="268438246" symbol="onMenuItem"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiMenuDelegate.mc" id="34" lineNum="13" parent="globals/testiMenuDelegate" pc="268438257" symbol="onMenuItem"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiMenuDelegate.mc" id="34" lineNum="14" parent="globals/testiMenuDelegate" pc="268438278" symbol="onMenuItem"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiMenuDelegate.mc" id="34" lineNum="15" parent="globals/testiMenuDelegate" pc="268438289" symbol="onMenuItem"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiMenuDelegate.mc" id="35" lineNum="7" parent="globals/testiMenuDelegate" pc="268438311" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\testiMenuDelegate.mc" id="35" lineNum="8" parent="globals/testiMenuDelegate" pc="268438313" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetView.mc" id="37" lineNum="11" parent="globals/noInternetView" pc="268438326" symbol="onLayout"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetView.mc" id="37" lineNum="12" parent="globals/noInternetView" pc="268438328" symbol="onLayout"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetView.mc" id="38" lineNum="6" parent="globals/noInternetView" pc="268438362" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetView.mc" id="38" lineNum="7" parent="globals/noInternetView" pc="268438364" symbol="initialize"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetView.mc" id="40" lineNum="22" parent="globals/noInternetView" pc="268438377" symbol="onUpdate"/>
+<entry filename="E:\\vs projektit\\garmin\\testi\\source\\view\\noInternetView.mc" id="40" lineNum="24" parent="globals/noInternetView" pc="268438379" symbol="onUpdate"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="41" lineNum="21" parent="globals/Rez/Layouts" pc="268438396" symbol="NoInternetLayout"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="41" lineNum="22" parent="globals/Rez/Layouts" pc="268438407" symbol="NoInternetLayout"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="41" lineNum="24" parent="globals/Rez/Layouts" pc="268438526" symbol="NoInternetLayout"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="42" lineNum="13" parent="globals/Rez/Layouts" pc="268438536" symbol="MainLayout"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="42" lineNum="14" parent="globals/Rez/Layouts" pc="268438547" symbol="MainLayout"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="42" lineNum="16" parent="globals/Rez/Layouts" pc="268438647" symbol="MainLayout"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="42" lineNum="18" parent="globals/Rez/Layouts" pc="268438745" symbol="MainLayout"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="43" lineNum="29" parent="globals/Rez/Menus/MainMenu" pc="268438760" symbol="&lt;init&gt;"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="44" lineNum="30" parent="globals/Rez/Menus/MainMenu" pc="268438772" symbol="initialize"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="44" lineNum="31" parent="globals/Rez/Menus/MainMenu" pc="268438774" symbol="initialize"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="44" lineNum="32" parent="globals/Rez/Menus/MainMenu" pc="268438786" symbol="initialize"/>
+<entry filename="e:\\vs projektit\\garmin\\testi\\bin\\gen\\006-B4375-00\\source\\Rez.mcgen" id="44" lineNum="33" parent="globals/Rez/Menus/MainMenu" pc="268438831" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="13" symbol="&lt;globals/testiApp/&lt;&gt;_currentFormatedDate&gt;"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="5" module="true" symbol="globals/Rez/Menus"/>
+<entry id="23" method="true" symbol="formatDate"/>
+<entry id="43" method="true" symbol="MainLayout"/>
+<entry id="35" method="true" symbol="setPrice"/>
+<entry field="true" id="15" symbol="&lt;globals/testiApp/&lt;&gt;_lastDate&gt;"/>
+<entry field="true" id="33" symbol="&lt;globals/testiView/&lt;&gt;_pricetext&gt;"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="24" method="true" symbol="formatDateAndHour"/>
+<entry field="true" id="20" symbol="&lt;globals/testiApp/&lt;&gt;_nextTomorrowHour&gt;"/>
+<entry field="true" id="46" symbol="AppName"/>
+<entry id="6" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8389594" symbol="headers"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="30" method="true" symbol="todayWebRequestCallback"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="21" symbol="&lt;globals/testiApp/&lt;&gt;_today&gt;"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="37" symbol="&lt;globals/testiDelegate/&lt;&gt;_view&gt;"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="18" symbol="&lt;globals/testiApp/&lt;&gt;_lastSavedTomorrowHour&gt;"/>
+<entry id="52" symbol="item_2"/>
+<entry id="51" symbol="item_1"/>
+<entry id="41" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="38" symbol="price"/>
+<entry field="true" id="19" symbol="&lt;globals/testiApp/&lt;&gt;_nextTodayHour&gt;"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8" object="true" symbol="noInternetView"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="34" symbol="&lt;globals/testiView/&lt;&gt;price&gt;"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="45" object="true" symbol="MainMenu"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="7" object="true" symbol="noInternetDelegate"/>
+<entry id="39" method="true" symbol="updatePrices"/>
+<entry id="27" method="true" symbol="formatTomorrowDateAndHourWithExternalHour"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry field="true" id="22" symbol="&lt;globals/testiApp/&lt;&gt;_view&gt;"/>
+<entry id="25" method="true" symbol="formatDateAndHourWithExternalHour"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="10" object="true" symbol="testiDelegate"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="11" object="true" symbol="testiMenuDelegate"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="16" symbol="&lt;globals/testiApp/&lt;&gt;_lastHour&gt;"/>
+<entry id="32" method="true" symbol="utcToFinnishTime"/>
+<entry field="true" id="42" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="14" symbol="&lt;globals/testiApp/&lt;&gt;_currentHour&gt;"/>
+<entry field="true" id="49" symbol="no_internet_string"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="12" object="true" symbol="testiView"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="31" method="true" symbol="tomorrowWebRequestCallback"/>
+<entry id="9" object="true" symbol="testiApp"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="28" method="true" symbol="savePrices"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="36" symbol="&lt;globals/noInternetDelegate/&lt;&gt;_view&gt;"/>
+<entry field="true" id="8389347" symbol="color"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="40" module="true" symbol="Layouts"/>
+<entry id="29" method="true" symbol="searchPricesFromWeb"/>
+<entry field="true" id="17" symbol="&lt;globals/testiApp/&lt;&gt;_lastSavedTodayHour&gt;"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8391945" method="true" symbol="getView"/>
+<entry id="44" method="true" symbol="NoInternetLayout"/>
+<entry field="true" id="50" symbol="title_string"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry id="26" method="true" symbol="formatTomorrowDate"/>
+<entry field="true" id="48" symbol="menu_label_2"/>
+<entry field="true" id="47" symbol="menu_label_1"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435719" name="time" stackId="1" startPc="268435643"/>
+<entry arg="true" endPc="268435991" name="responseCode" stackId="1" startPc="268435781"/>
+<entry arg="true" endPc="268435991" name="data" stackId="2" startPc="268435781"/>
+<entry endPc="268435885" name="price" stackId="3" startPc="268435808"/>
+<entry arg="true" endPc="268436130" name="dateString" stackId="1" startPc="268435992"/>
+<entry arg="true" endPc="268436130" name="hourString" stackId="2" startPc="268435992"/>
+<entry arg="true" endPc="268436130" name="tomorrow" stackId="3" startPc="268435992"/>
+<entry endPc="268436129" name="url" stackId="4" startPc="268435995"/>
+<entry endPc="268436129" name="params" stackId="5" startPc="268435995"/>
+<entry endPc="268436129" name="options" stackId="6" startPc="268435995"/>
+<entry arg="true" endPc="268436236" name="time" stackId="1" startPc="268436131"/>
+<entry arg="true" endPc="268436236" name="finnishHour" stackId="2" startPc="268436131"/>
+<entry arg="true" endPc="268436246" name="state" stackId="1" startPc="268436237"/>
+<entry arg="true" endPc="268436303" name="state" stackId="1" startPc="268436255"/>
+<entry arg="true" endPc="268437401" name="time" stackId="1" startPc="268437287"/>
+<entry arg="true" endPc="268437401" name="finnishHour" stackId="2" startPc="268437287"/>
+<entry arg="true" endPc="268437520" name="time" stackId="1" startPc="268437402"/>
+<entry arg="true" endPc="268437600" name="time" stackId="1" startPc="268437521"/>
+<entry arg="true" endPc="268437608" name="utc" stackId="1" startPc="268437601"/>
+<entry arg="true" endPc="268437826" name="responseCode" stackId="1" startPc="268437624"/>
+<entry arg="true" endPc="268437826" name="data" stackId="2" startPc="268437624"/>
+<entry endPc="268437728" name="price" stackId="3" startPc="268437651"/>
+<entry arg="true" endPc="268437882" name="dc" stackId="1" startPc="268437827"/>
+<entry arg="true" endPc="268437933" name="pricep" stackId="1" startPc="268437898"/>
+<entry arg="true" endPc="268438086" name="dc" stackId="1" startPc="268437934"/>
+<entry endPc="268438085" name="today" stackId="2" startPc="268437937"/>
+<entry arg="true" endPc="268438110" name="view" stackId="1" startPc="268438087"/>
+<entry endPc="268438227" name="today" stackId="1" startPc="268438114"/>
+<entry arg="true" endPc="268438310" name="item" stackId="1" startPc="268438244"/>
+<entry arg="true" endPc="268438361" name="dc" stackId="1" startPc="268438326"/>
+<entry arg="true" endPc="268438395" name="dc" stackId="1" startPc="268438377"/>
+<entry arg="true" endPc="268438535" name="dc" stackId="1" startPc="268438396"/>
+<entry endPc="268438535" name="rez_cmp_local_text_1139614796" stackId="2" startPc="268438407"/>
+<entry arg="true" endPc="268438759" name="dc" stackId="1" startPc="268438536"/>
+<entry endPc="268438759" name="rez_cmp_local_text_1193959466" stackId="2" startPc="268438547"/>
+<entry endPc="268438759" name="rez_cmp_local_text_price" stackId="3" startPc="268438547"/>
+</localVars>
+<deviceInfo deviceVersion="90325a5ba4f163ec5ad32845d0e0beee034c6cee" partNumber="006-B4375-00"/>
+<annotations>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="title_string"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="no_internet_string"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/testiApp" offset="179" parentId="globals" symbolId="testiApp" type="class"/>
+<dataEntry label="globals/testiView" offset="439" parentId="globals" symbolId="testiView" type="class"/>
+<dataEntry label="globals/noInternetDelegate" offset="546" parentId="globals" symbolId="noInternetDelegate" type="class"/>
+<dataEntry label="globals/testiDelegate" offset="599" parentId="globals" symbolId="testiDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="670" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/testiMenuDelegate" offset="732" parentId="globals" symbolId="testiMenuDelegate" type="class"/>
+<dataEntry label="globals/noInternetView" offset="785" parentId="globals" symbolId="noInternetView" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="865" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="900" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="944" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="979" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/Menus/MainMenu" offset="1050" parentId="Menus" symbolId="MainMenu" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435480" name="getApp" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435522" name="&lt;init&gt;" parent="testiApp" startPc="268435481">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435534" name="&lt;init&gt;" parent="testiView" startPc="268435523">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435546" name="&lt;init&gt;" parent="noInternetDelegate" startPc="268435535">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435571" name="&lt;init&gt;" parent="testiDelegate" startPc="268435547">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435591" name="&lt;init&gt;" parent="Rez" startPc="268435572">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435603" name="&lt;init&gt;" parent="testiMenuDelegate" startPc="268435592">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435630" name="getView" startPc="268435604">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435642" name="&lt;init&gt;" parent="noInternetView" startPc="268435631">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435719" name="formatDate" parent="testiApp" startPc="268435643">
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435780" name="getInitialView" parent="testiApp" startPc="268435720">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435991" name="tomorrowWebRequestCallback" parent="testiApp" startPc="268435781">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436130" name="searchPricesFromWeb" parent="testiApp" startPc="268435992">
+<param id="dateString"/>
+<param id="hourString"/>
+<param id="tomorrow"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436236" name="formatDateAndHourWithExternalHour" parent="testiApp" startPc="268436131">
+<param id="time"/>
+<param id="finnishHour"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436246" name="onStart" parent="testiApp" startPc="268436237">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436254" name="getView" parent="testiApp" startPc="268436247">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436303" name="onStop" parent="testiApp" startPc="268436255">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437286" name="savePrices" parent="testiApp" startPc="268436304">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437401" name="formatTomorrowDateAndHourWithExternalHour" parent="testiApp" startPc="268437287">
+<param id="time"/>
+<param id="finnishHour"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437520" name="formatDateAndHour" parent="testiApp" startPc="268437402">
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437600" name="formatTomorrowDate" parent="testiApp" startPc="268437521">
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437608" name="utcToFinnishTime" parent="testiApp" startPc="268437601">
+<param id="utc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437623" name="initialize" parent="testiApp" startPc="268437609">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437826" name="todayWebRequestCallback" parent="testiApp" startPc="268437624">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="testiView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437882" name="onLayout" parent="testiView" startPc="268437827">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437897" name="initialize" parent="testiView" startPc="268437883">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="testiView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437933" name="setPrice" parent="testiView" startPc="268437898">
+<param id="pricep"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438086" name="onUpdate" parent="testiView" startPc="268437934">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438110" name="initialize" parent="noInternetDelegate" startPc="268438087">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438228" name="updatePrices" parent="testiDelegate" startPc="268438111">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438243" name="initialize" parent="testiDelegate" startPc="268438229">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438310" name="onMenuItem" parent="testiMenuDelegate" startPc="268438244">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438325" name="initialize" parent="testiMenuDelegate" startPc="268438311">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="noInternetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438361" name="onLayout" parent="noInternetView" startPc="268438326">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438376" name="initialize" parent="noInternetView" startPc="268438362">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="noInternetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438395" name="onUpdate" parent="noInternetView" startPc="268438377">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438535" name="NoInternetLayout" parent="Layouts" startPc="268438396">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438759" name="MainLayout" parent="Layouts" startPc="268438536">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438771" name="&lt;init&gt;" parent="MainMenu" startPc="268438760">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438876" name="initialize" parent="MainMenu" startPc="268438772">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

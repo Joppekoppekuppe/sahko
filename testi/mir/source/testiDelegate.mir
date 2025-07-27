@@ -1,0 +1,121 @@
+[ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [Lang,1,14,18]; ]
+import Toybox.Lang;
+[ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [WatchUi,2,14,21]; ]
+import Toybox.WatchUi;
+[ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 3; @symbol_importdef<0> = [Toybox,3,7,13]; @symbol_importdef<1> = [Communications,3,14,28]; ]
+import Toybox.Communications;
+[ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 4; @symbol_importdef<0> = [Toybox,4,7,13]; @symbol_importdef<1> = [Time,4,14,18]; ]
+import Toybox.Time;
+[ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 5; @symbol_importdef<0> = [Toybox,5,7,13]; @symbol_importdef<1> = [Time,5,14,18]; @symbol_importdef<2> = [Gregorian,5,19,28]; ]
+import Toybox.Time.Gregorian;
+[ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 6; @symbol_importdef<0> = [Toybox,6,7,13]; @symbol_importdef<1> = [System,6,14,20]; ]
+import Toybox.System;
+[ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 7; @symbol_importdef<0> = [Toybox,7,7,13]; @symbol_importdef<1> = [Application,7,14,25]; ]
+import Toybox.Application;
+[ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 9; @symbol_classdef = [testiDelegate,9,6,19]; @symbol_extends<0> = [WatchUi,9,28,35]; @symbol_extends<1> = [BehaviorDelegate,9,36,52]; ]
+class testiDelegate extends WatchUi.BehaviorDelegate {
+    [ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 9; ]
+    <init> {
+[ "E:\vs projektit\garmin\testi\source\testiDelegate.mc" 10 16 ]
+        %tmp.1 = self;
+        symbol [ getView %tmp.2 10 24 31 ];
+        %tmp.2 = getv function %tmp.1 :getView;
+        %tmp.3 = invoke %tmp.1 %tmp.2();
+        putv self :_view %tmp.3;
+    }
+    [ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 9; ]
+    static
+    <init> {
+    }
+    [ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 10; @position = 16; @symbol_vardef = [_view,10,16,21]; ]
+    private
+    var _view;
+    [ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 11; @position = 15; @symbol_vardef = [price,11,15,20]; ]
+    public
+    var price;
+    [ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 12; @symbol_functiondef = [initialize,12,13,23]; ]
+    function initialize() as Void {
+E__vs_projektit_garmin_testi_source_testiDelegate_mc_12_26_14_4_start:
+[ "E:\vs projektit\garmin\testi\source\testiDelegate.mc" 13 8 ]
+        symbol [ BehaviorDelegate %tmp.2 13 8 24 ];
+        %tmp.2 = getv ? :BehaviorDelegate;
+        symbol [ initialize %tmp.3 13 25 35 ];
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+E__vs_projektit_garmin_testi_source_testiDelegate_mc_12_26_14_4_stop:
+    }
+    [ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 15; @symbol_functiondef = [updatePrices,15,13,25]; ]
+    function updatePrices() {
+E__vs_projektit_garmin_testi_source_testiDelegate_mc_15_28_22_4_start:
+[ "E:\vs projektit\garmin\testi\source\testiDelegate.mc" 16 8 ]
+        [ "E__vs_projektit_garmin_testi_source_testiDelegate_mc_15_28_22_4_start" "E__vs_projektit_garmin_testi_source_testiDelegate_mc_15_28_22_4_stop" ]
+        %today.1 = local;
+        symbol [ today %today.1 16 12 17 ];
+        symbol [ Gregorian %tmp.1 16 20 29 ];
+        %tmp.1 = getm $.Toybox.Time.Gregorian;
+        symbol [ utcInfo %tmp.2 16 30 37 ];
+        %tmp.2 = getv function %tmp.1 :utcInfo;
+        symbol [ Time %tmp.3 16 38 42 ];
+        %tmp.3 = getm $.Toybox.Time;
+        symbol [ now %tmp.4 16 43 46 ];
+        %tmp.4 = getv function %tmp.3 :now;
+        %tmp.5 = invoke %tmp.3 %tmp.4();
+        symbol [ Time %tmp.6 16 50 54 ];
+        %tmp.6 = getm $.Toybox.Time;
+        symbol [ FORMAT_SHORT %tmp.7 16 55 67 ];
+        %tmp.7 = getv %tmp.6 :FORMAT_SHORT;
+        %tmp.8 = invoke %tmp.1 %tmp.2(%tmp.5, %tmp.7);
+        lputv %today.1 %tmp.8;
+        symbol [ today %today.1 16 12 17 ];
+[ "E:\vs projektit\garmin\testi\source\testiDelegate.mc" 17 8 ]
+        symbol [ Storage %tmp.10 17 16 23 ];
+        %tmp.10 = getv ? :Storage;
+        symbol [ getValue %tmp.11 17 24 32 ];
+        %tmp.11 = getv function %tmp.10 :getValue;
+        symbol [ _view %tmp.13 17 33 38 ];
+        %tmp.13 = getv ? :_view;
+        symbol [ getApp %tmp.14 17 39 45 ];
+        %tmp.14 = getv function %tmp.13 :getApp;
+        %tmp.15 = invoke %tmp.13 %tmp.14();
+        symbol [ formatDateAndHour %tmp.16 17 48 65 ];
+        %tmp.16 = getv function %tmp.15 :formatDateAndHour;
+        %tmp.17 = lgetv %today.1;
+        symbol [ today %tmp.17 17 66 71 ];
+        %tmp.18 = invoke %tmp.15 %tmp.16(%tmp.17);
+        %tmp.19 = invoke %tmp.10 %tmp.11(%tmp.18);
+        symbol [ price ? 17 8 13 ];
+        putv self :price %tmp.19;
+[ "E:\vs projektit\garmin\testi\source\testiDelegate.mc" 18 8 ]
+        symbol [ System %tmp.20 18 8 14 ];
+        %tmp.20 = getm $.Toybox.System;
+        symbol [ println %tmp.21 18 15 22 ];
+        %tmp.21 = getv function %tmp.20 :println;
+        %tmp.22 = "puu";
+        invoke %tmp.20 %tmp.21(%tmp.22);
+[ "E:\vs projektit\garmin\testi\source\testiDelegate.mc" 19 8 ]
+E__vs_projektit_garmin_testi_source_testiDelegate_mc_19_8_21_8_if_stmt:
+        symbol [ price %tmp.24 19 12 17 ];
+        %tmp.24 = getv ? :price;
+        %tmp.25 = null;
+        %tmp.26 = ne %tmp.24 %tmp.25;
+        bf %tmp.26 @E__vs_projektit_garmin_testi_source_testiDelegate_mc_19_8_21_8_if_end;
+E__vs_projektit_garmin_testi_source_testiDelegate_mc_19_8_21_8_if_true:
+E__vs_projektit_garmin_testi_source_testiDelegate_mc_19_27_21_8_start:
+[ "E:\vs projektit\garmin\testi\source\testiDelegate.mc" 20 12 ]
+        symbol [ _view %tmp.28 20 12 17 ];
+        %tmp.28 = getv ? :_view;
+        symbol [ setPrice %tmp.29 20 18 26 ];
+        %tmp.29 = getv function %tmp.28 :setPrice;
+        symbol [ price %tmp.31 20 27 32 ];
+        %tmp.31 = getv ? :price;
+        %tmp.32 = as %tmp.31 { (!Null) };
+        invoke %tmp.28 %tmp.29(%tmp.32);
+E__vs_projektit_garmin_testi_source_testiDelegate_mc_19_27_21_8_stop:
+        goto @E__vs_projektit_garmin_testi_source_testiDelegate_mc_19_8_21_8_if_end;
+E__vs_projektit_garmin_testi_source_testiDelegate_mc_19_8_21_8_if_end:
+E__vs_projektit_garmin_testi_source_testiDelegate_mc_15_28_22_4_stop:
+    }
+}
+[ @file = "E:\vs projektit\garmin\testi\source\testiDelegate.mc"; @line = 1; ]
+<init> {
+}

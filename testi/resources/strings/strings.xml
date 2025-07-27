@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">Sähkönseuranta</string>
+
+    <string id="title_string">Hinta nyt:</string>
+    <string id="no_internet_string">Yhdistä internettiin.</string>
+
+    <string id="menu_label_1">Menu Item 1</string>
+    <string id="menu_label_2">Menu Item 2</string>
+
+</strings>
